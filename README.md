@@ -1,0 +1,1 @@
+This is a project that is being built for the purpose of becoming more familiar with chrome extensions.
