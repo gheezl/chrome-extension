@@ -1,19 +1,10 @@
 {
-    "manifest_version": 2,
+    "manifest_version": 3,
     "name": "Practice extension",
     "description": "I am practicing LOL",
-    "version": "1.0.0",
-    "icons": {
-        "16": "",
-        "48": "",
-        "128": ""
-    },
-    "page_action": {
-        "defalut_icon": {
-            "16": "",
-            "48": "",
-            "128": ""
-        }
-    },
-    "content_scripts": [{}]
+    "version": "1.0",
+    "action": {
+        "default_popup": "index.html"
+
+    }
 }
